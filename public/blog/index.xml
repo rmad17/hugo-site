@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Rmad&#39;s</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Blogs on Rmad&#39;s</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Oct 2015 20:16:42 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>test0</title>
+      <link>http://localhost:1313/blog/test0/</link>
+      <pubDate>Sat, 24 Oct 2015 20:16:42 +0530</pubDate>
+      
+      <guid>http://localhost:1313/blog/test0/</guid>
+      <description>&lt;p&gt;This is test&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>welcome</title>
+      <link>http://localhost:1313/blog/welcome/</link>
+      <pubDate>Sat, 24 Oct 2015 20:16:31 +0530</pubDate>
+      
+      <guid>http://localhost:1313/blog/welcome/</guid>
+      <description>&lt;p&gt;Welcome to rmad&amp;rsquo;s&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
