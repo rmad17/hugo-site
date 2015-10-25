@@ -1,3 +1,23 @@
+baseurl = "https://souravbasu.com"
 languageCode = "en-us"
-title = "Rmad's"
-theme = "herring-cove"
+title = "rmad17's"
+theme = "hyde"
+copyright = "Sourav Basu"
+
+[Author]
+	name = "Sourav Basu"
+
+[Permalinks]
+	blog = "/:year/:month/:filename/"
+	code = "/:filename/"
+
+[Taxonomies]
+	tag = "tags"
+	series = "series"
+	series-desc = "series-desc"
+
+[params]
+	description = "diary of rmad17"
+	twitter = "https://twitter.com/rmad1717"
+	github = "https://github.com/rmad17"
+	disqus = "rmad17"
