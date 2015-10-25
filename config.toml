@@ -17,7 +17,8 @@ copyright = "Sourav Basu"
 	series-desc = "series-desc"
 
 [params]
-	description = "import souravbasu as rmad17"
+	description = "from souravbasu import rmad17"
 	twitter = "https://twitter.com/rmad1717"
 	github = "https://github.com/rmad17"
+	linkedin = "https://www.linkedin.com/in/souravbasu17"
 	disqus = "rmad17"
